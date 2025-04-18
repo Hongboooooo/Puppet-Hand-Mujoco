@@ -1,6 +1,6 @@
 # Puppet-Hand-Mujoco  
 Solve hand penetration problem frequently seen in mocap datasets by using physical simulation  
-Detailed explanation can be seen in ()
+Detailed explanation can be seen in this [report](https://github.com/Hongboooooo/Puppet-Hand-Mujoco/blob/main/PracticalReport_Hongbo.pdf)
   1. construct rigid-body hand according to Mano's beta parameters in Mujoco simulation  
 ![image](https://github.com/Hongboooooo/Puppet-Hand-Mujoco/blob/main/MANO2RigidHand.png)  
   2. connect each joint of robot hand to the respective joint of original data with a tendon spring  
