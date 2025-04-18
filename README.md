@@ -7,7 +7,7 @@ Detailed explanation can be seen in this [report](https://github.com/Hongboooooo
 ![image](https://github.com/Hongboooooo/Puppet-Hand-Mujoco/blob/main/puppet%20hand%20with%20tendon.png)  
 
 Correction procedure can be seen in the video below  
-  1st segment shows original mocap data;  
-  2nd segment applies puppet hand in physics simulation;  
-  3rd segment shows rectified data.  
+>  1st segment shows original mocap data;  
+>  2nd segment applies puppet hand in physics simulation;  
+>  3rd segment shows rectified data.  
 ![image](https://github.com/Hongboooooo/Puppet-Hand-Mujoco/blob/main/PuppetHand.gif)
